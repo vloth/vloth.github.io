@@ -1,4 +1,3 @@
-# vloth
+### francisco hisashi berrocal
 
-fullstack developer, with interests in small ergonomic mechanical keyboards, programming,
-fixed gear, and recently getting into resin printing.
+fullstack developer, with interests in programming, agile, ergonomic mechanical keyboards and fixed gears.
