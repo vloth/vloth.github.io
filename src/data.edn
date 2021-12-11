@@ -1,5 +1,4 @@
 {:pages {"home" {:page/name "Home", :page/path "pages/home.md"}
-         "about" {:page/name "About", :page/path "pages/about.md"}
          "hidden-page" {:page/name "Secret", :page/path "pages/hidden-page.md", :page/hidden true}}
 
  :posts {"making-illegal-states-invalid-in-typescript" {:post/name "Making illegal states invalid in typescript", :post/description "Better representing the different states of a type in typescript", :post/timestamp 1638219478818, :post/path "posts/making-illegal-states-invalid-in-typescript.md", :post/tags #{"programming"}}
