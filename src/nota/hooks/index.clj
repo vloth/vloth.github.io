@@ -57,11 +57,13 @@
                        :rel "stylesheet"}
                       {:href "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/base16/atelier-cave-light.min.css"
                        :rel "stylesheet"}
+                      {:href "https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css"
+                       :rel "stylesheet"}
                       {:href "./css/nota.min.css"
                        :rel "stylesheet"
                        :htype "text/css"}]
-          :scripts   ["https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/highlight.min.js"
-                      "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/languages/clojure.min.js"]
+          :scripts   ["https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/components/prism-core.min.js"
+                      "https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js"]
           :lang      "en"
           :app-mount :div#app}
          options))
